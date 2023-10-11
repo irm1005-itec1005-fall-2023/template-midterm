@@ -4,11 +4,34 @@
  * You got this!
  */
 
+/*
+ * COLOUR PALETTE
+ *
+ * YOU DO NOT NEED TO USE THESE COLOURS, BUT YOU CAN IF YOU WANT TO
+ *   #ede0d4
+ *   #e6ccb2
+ *   #ddb892
+ *   #b08968
+ *   #7f5539
+ *   #9c6644
+ *
+ * https://coolors.co/palette/ede0d4-e6ccb2-ddb892-b08968-7f5539-9c6644
+ */
+
+/*
+ * The width of my Product Card in the screenshot was 400px
+ * You can use that width or set your own width
+ */
+
+/*
+ * HINT: For making image fill the container use object-fit:cover property:
+ *  https://developer.mozilla.org/en-US/docs/Web/CSS/object-fit
+ */
 
 html {
-  font-size: 1.2rem;
+  font-size: 1.0rem;
 }
 
 body {
-  font-family: Arial, Helvetica, sans-serif
+  font-family: Arial, Helvetica, sans-serif;
 }
