@@ -18,6 +18,7 @@
 
 ## Table of contents
 
+- [Description](#description)
 - [Content and design requirements](#content-and-design-requirements)
 - [Acceptance criteria](#assignment-acceptance-criteria)
 - [Grading rubric](#grading-rubric)
